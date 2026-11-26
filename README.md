@@ -19,12 +19,20 @@ A web portal for running school exams, practice sessions and performance analysi
 - Draft questions through the term and submit to the administrator
 - Objective (A to D), fill in the gap, theory, and image questions or image options
 - Topic tags on every question
+- Bulk import: paste questions or upload a Word, CSV or text file, check the list, then add. A ready-made Word template is downloadable from the question screen
 
 **Students**
 - Enter a personal code in the lab, read the instructions and start the timed exam
 - Sign in to a profile with school code, admission number and PIN
 - See subjects done and upcoming, exam records, and strengths and weaknesses by topic
 - Practice sets with instant feedback, and a JAMB-style estimate out of 400
+
+## Who can do what
+
+- **Platform owner (creator):** the only person who can add a school. Adding a school gives it a school code straight away.
+- **School administrator:** signs in with the email the owner registered, after setting a password from an invite email. Registers students and teachers, and sets exams.
+- **Students:** enter the school code and their personal exam code in the lab, or school code, admission number and PIN for their profile.
+- Nobody can register a school on their own. An account with no registered school can do nothing.
 
 ## How it is built
 
