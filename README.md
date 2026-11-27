@@ -27,6 +27,16 @@ A web portal for running school exams, practice sessions and performance analysi
 - See subjects done and upcoming, exam records, and strengths and weaknesses by topic
 - Practice sets with instant feedback, and a JAMB-style estimate out of 400
 
+## Exam features
+
+- Question grid during the exam, with flag for review
+- Optional scientific calculator, switched on per subject
+- Page-leave limit per exam (warns, counts, then submits automatically)
+- Optional provisional score shown after submit, per exam
+- Lesson notes: teachers paste or upload the note they taught from, and the system drafts the model answer and marking scheme for theory questions. The teacher checks and edits the draft
+- AI marking check: a button in Account tests that the AI service is connected
+- Administrators can extend time, issue 15-minute quick codes, rename or archive classes and subjects, and tick subjects and classes for each teacher
+
 ## Who can do what
 
 - **Platform owner (creator):** the only person who can add a school. Adding a school gives it a school code straight away.
